@@ -1,5 +1,7 @@
 # Pymaceuticals_Challenge
 
+Thank you to my tutor Sharon Colson for helping me apply these concepts.
+
 # This assignment is broken down into the following tasks:
 
 Prepare the data.
